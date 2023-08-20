@@ -1,5 +1,5 @@
 # Analysis of Flight Statistics in the UK for June and July 2022
-### Author: Hamza,Asma Alpha Group
+### Author: Hamza Afzal Alpha Group
 ### Submission Date: 20-08-2022
 ## Introduction
 The data we are going to work on today is retreived from UK CAA Flight Punctuality Statistics. 

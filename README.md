@@ -21,7 +21,7 @@ This project focuses on examining the flight punctuality of UK flights during Ju
 
 ## EDA Process 📊🔍
 
-The primary analysis is presented in the Jupyter Notebook `EDA.ipynb`, using tools like Pandas, Matplotlib, and Seaborn for data manipulation and visualization. The insights from the analysis are summarized in `EDA.md` and elaborated further in the analysis report files.
+The primary analysis is presented in the Jupyter Notebook `EDA.ipynb`, using tools like Pandas, Matplotlib, and Seaborn for data manipulation and visualization. The insights from the analysis are summarized in `analysis_report.md` and elaborated further in the analysis report files.
 
 ## Usage 🧑‍💻
 
